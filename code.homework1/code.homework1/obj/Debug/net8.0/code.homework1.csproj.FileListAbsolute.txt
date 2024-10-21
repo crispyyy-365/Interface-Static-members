@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Desktop\codde.homeworks\code.homework1\code.homework1\bin\Debug\net8.0\code.homework1.exe
+C:\Users\User\OneDrive\Desktop\codde.homeworks\code.homework1\code.homework1\bin\Debug\net8.0\code.homework1.deps.json
+C:\Users\User\OneDrive\Desktop\codde.homeworks\code.homework1\code.homework1\bin\Debug\net8.0\code.homework1.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\codde.homeworks\code.homework1\code.homework1\bin\Debug\net8.0\code.homework1.dll
+C:\Users\User\OneDrive\Desktop\codde.homeworks\code.homework1\code.homework1\bin\Debug\net8.0\code.homework1.pdb
+C:\Users\User\OneDrive\Desktop\codde.homeworks\code.homework1\code.homework1\obj\Debug\net8.0\code.homework1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\codde.homeworks\code.homework1\code.homework1\obj\Debug\net8.0\code.homework1.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\codde.homeworks\code.homework1\code.homework1\obj\Debug\net8.0\code.homework1.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\codde.homeworks\code.homework1\code.homework1\obj\Debug\net8.0\code.homework1.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\codde.homeworks\code.homework1\code.homework1\obj\Debug\net8.0\code.homework1.dll
+C:\Users\User\OneDrive\Desktop\codde.homeworks\code.homework1\code.homework1\obj\Debug\net8.0\refint\code.homework1.dll
+C:\Users\User\OneDrive\Desktop\codde.homeworks\code.homework1\code.homework1\obj\Debug\net8.0\code.homework1.pdb
+C:\Users\User\OneDrive\Desktop\codde.homeworks\code.homework1\code.homework1\obj\Debug\net8.0\code.homework1.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\codde.homeworks\code.homework1\code.homework1\obj\Debug\net8.0\ref\code.homework1.dll
